@@ -1,0 +1,28 @@
+
+		body
+		{
+			background-image: url(images/flower.jpg); background-size: 100%; 
+		}
+		table, th, td, tr
+    {
+      border: 2px solid grey;
+      border-collapse: collapse;
+    }
+    th, td, tr
+    {
+      padding: 4px;
+      text-align: center;
+    }
+    th
+    {
+      background-color: khaki;
+    }
+    tr
+    {
+      background-color: lightsteelblue;
+    }
+    h1
+    {
+ 
+  text-shadow: -1px 0 black, 0 2px black, 1px 0 black, 0 -1px black;
+	}
